@@ -9,7 +9,6 @@
   },
   "author": "Bhavya Popat",
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.0",
